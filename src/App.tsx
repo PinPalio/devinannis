@@ -62,13 +62,13 @@ export default function App() {
         <div className="hero-inner">
           <div className="hero-photo-wrap">
             <img
-              src="https://media.pinpal.io/pinpal_logo.png"
+              src="https://media.pinpal.io/da_headshot.png"
               alt="Devin Annis"
               className="hero-photo"
             />
           </div>
           <div className="hero-text">
-            <p className="hero-eyebrow">CPA · MST · Controller</p>
+            <p className="hero-eyebrow">ACCOUNTING • TAX • OPERATIONS</p>
             <h1 className="hero-name">Devin Annis<span className="hero-creds">, CPA, MST</span></h1>
             <p className="hero-tagline">Finance Leader with an AI Focus</p>
             <div className="hero-divider" />
@@ -193,7 +193,7 @@ export default function App() {
 
       {/* Footer */}
       <footer className="footer">
-        <p>© {new Date().getFullYear()} Devin Annis · <a href="https://www.linkedin.com/in/devinannis" target="_blank" rel="noreferrer">LinkedIn</a> · devinannis.com</p>
+        <p>© {new Date().getFullYear()} Devin Annis · <a href="https://www.linkedin.com/in/devin-annis-0347b513/" target="_blank" rel="noreferrer">LinkedIn</a> · devinannis.com</p>
       </footer>
     </div>
   )
